@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **AWS,SpringBoot,React**
 
-- 👨‍💻 All of my projects are available at [https://github.com/nehalhd?tab=repositories](https://github.com/nehalhd?tab=repositories)
-
 - 📫 How to reach me **nehalhdev@outlook.com**
 
 - 📄 Know about my experiences [https://drive.google.com/drive/my-drive](https://drive.google.com/drive/my-drive)
