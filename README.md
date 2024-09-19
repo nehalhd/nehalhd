@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nehal Hassan</h1>
 <h3 align="center">A passionate Application Developer</h3>
 
-- 🌱 I’m currently learning **DevOps,AWS,UIPath,SpringBoot**
+- 🌱 I’m currently learning **DevOps,AWS,GCP,AZURE**
 
 - 📫 How to reach me **nehalhdev@outlook.com**
 
