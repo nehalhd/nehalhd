@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nehal Hassan</h1>
-<h3 align="center">A passionate Application Developer</h3>
+<h3 align="center">A passionate DevOps Engineer</h3>
 
 - 🌱 I’m currently learning **DevOps,AWS,GCP,AZURE**
 
