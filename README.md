@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **nehalhdevv@outlook.com**
 
-📄 Know about my experiences []()
+📄 Know about my experiences [ https://drive.google.com/file/d/1oXCO4Mo4yf32KWsx7WDiqkytJHjGC_7t/view?usp=drivesdk ]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
