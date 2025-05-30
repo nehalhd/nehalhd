@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **DevOps,AWS,GCP,AZURE**
 
-- 📫 How to reach me **nehalhdevv@outlook.com**
+- 📫 How to reach me **nehalhdevv@hotmail.com**
 
 
 
